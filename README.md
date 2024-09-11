@@ -2,6 +2,10 @@
 
 A fully-featured scientific calculator built using Python's Tkinter library. This calculator supports various mathematical operations including trigonometric functions, factorials, logarithms, and more. 
 
+## Screenshots
+
+![Scientific Calculator](./Screenshot.png)  <!-- Add a screenshot image of your game here -->
+
 ## Features
 
 - **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, and Division
